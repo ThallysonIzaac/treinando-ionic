@@ -1,0 +1,7 @@
+{
+  "name": "listaFilmes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
